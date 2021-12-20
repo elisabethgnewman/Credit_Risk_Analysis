@@ -22,7 +22,8 @@ The balanced accuracy score (true positive+true negative / total results), the p
 <u>Combination Sampling</u>
 ![image](https://user-images.githubusercontent.com/88783255/146696379-72e013df-f66c-476f-a068-34dd8de18bd3.png)
 
-<u>Balanced Random Forest Classifier</u>
+<u> Balanced Random Forest Classifier </u>
+![image](https://user-images.githubusercontent.com/88783255/146696886-8a23163e-cf4d-43bf-9650-8b9bf37f9885.png)
 
 
 ### Summary:
