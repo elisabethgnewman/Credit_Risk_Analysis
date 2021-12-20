@@ -27,4 +27,4 @@ The balanced accuracy score (true positive+true negative / total results), the p
 
 
 ### Summary:
-As shown above, the accuracy of all of these models appears to be weak (60-70 range). Additionally, the precision is 
+As shown above, the accuracy of all of these models appears to be weak (60-70 range). Additionally, the precision is very low for all of the models outputs shown above. 
