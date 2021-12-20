@@ -27,4 +27,4 @@ The balanced accuracy score (true positive+true negative / total results), the p
 
 
 ### Summary:
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+As shown above, the accuracy of all of these models appears to be weak (60-70 range). Additionally, the precision is 
