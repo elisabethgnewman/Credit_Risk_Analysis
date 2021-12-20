@@ -10,19 +10,19 @@ After evaluating the six models, the goal was to determine whether it could be u
 ### Results:
 The balanced accuracy score (true positive+true negative / total results), the precision (true positive/actual results), and the recall scores (true positive/predicted results) of all six machine learning models are shown below.
 
-<u>Oversampling
+<u>Oversampling</u>
 ![image](https://user-images.githubusercontent.com/88783255/146696303-5daad8d2-8c5f-46c8-8c72-6d398e9b99c8.png)
 
-#### SMOTE Oversampling
+<u>SMOTE Oversampling</u>
 ![image](https://user-images.githubusercontent.com/88783255/146696328-e1b6cd19-5a67-4276-84df-218c61037187.png)
 
-#### Undersampling
+<u>Undersampling</u>
 ![image](https://user-images.githubusercontent.com/88783255/146696359-0fedc231-0926-47a5-bc4b-f0aac198b8e2.png)
 
-#### Combination Sampling
+<u>Combination Sampling</u>
 ![image](https://user-images.githubusercontent.com/88783255/146696379-72e013df-f66c-476f-a068-34dd8de18bd3.png)
 
-#### Balanced Random Forest Classifier
+<u>Balanced Random Forest Classifier</u>
 
 
 ### Summary:
