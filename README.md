@@ -17,6 +17,12 @@ The balanced accuracy score (true positive+true negative / total results), the p
 ![image](https://user-images.githubusercontent.com/88783255/146696328-e1b6cd19-5a67-4276-84df-218c61037187.png)
 
 #### Undersampling
+![image](https://user-images.githubusercontent.com/88783255/146696359-0fedc231-0926-47a5-bc4b-f0aac198b8e2.png)
+
+#### Combination Sampling
+![image](https://user-images.githubusercontent.com/88783255/146696379-72e013df-f66c-476f-a068-34dd8de18bd3.png)
+
+#### Balanced Random Forest Classifier
 
 
 ### Summary:
