@@ -10,7 +10,7 @@ After evaluating the six models, the goal was to determine whether it could be u
 ### Results:
 The balanced accuracy score (true positive+true negative / total results), the precision (true positive/actual results), and the recall scores (true positive/predicted results) of all six machine learning models are shown below.
 
-<u>Oversampling<u>
+<u>Oversampling
 ![image](https://user-images.githubusercontent.com/88783255/146696303-5daad8d2-8c5f-46c8-8c72-6d398e9b99c8.png)
 
 #### SMOTE Oversampling
